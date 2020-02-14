@@ -1,0 +1,11 @@
+{
+    //ターミナルがLinuxで使用するshellのパス
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+
+    //Linuxのターミナルで使用するコマンドライン引数
+    "terminal.integrated.shellArgs.linux": [],
+
+    //ターミナルが OS X で使用するshellのパス
+    "terminal.integrated.shell.linux": "/usr/local/bin/fish",
+    
+}
