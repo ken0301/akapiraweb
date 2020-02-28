@@ -7,5 +7,6 @@
 
     //ターミナルが OS X で使用するshellのパス
     "terminal.integrated.shell.linux": "/usr/local/bin/fish",
+    "python.workspaceSymbols.exclusionPatterns": [],
     
 }
